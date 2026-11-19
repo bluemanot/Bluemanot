@@ -45,3 +45,81 @@ if __name__=="__main__":
 🍩comandos termos🍩:
 pkg install python
 nano calc.py
+
+
+# 💖 Calculadora Rosa Termux 💖
+
+<div align="center">
+
+![Termux](https://img.shields.io/badge/Termux-Android-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-pink?style=flat-square)
+
+</div>
+
+---
+
+## 🌸 Sobre
+
+Calculadora com tema rosa fofa e compacta para o Termux! Interface organizada com cores ANSI e emojis kawaii.
+
+---
+
+## ✨ Features
+
+- 🎀 Tema rosa com cores ANSI
+- 📐 Operações básicas e avançadas
+- 💕 Interface compacta e organizada
+- ⚠️ Tratamento de erros
+- 🌟 Emojis fofos
+
+---
+
+## 📱 Instalação
+
+```bash
+pkg install python git
+git clone https://github.com/SEU-USUARIO/calculadora-rosa.git
+cd calculadora-rosa
+python calculadora.py
+```
+
+---
+
+## 🎀 Uso
+
+
+
+---
+
+## 🌸 Screenshots
+
+<div align="center">
+
+<!-- Adicione seus gifs coquette aqui depois -->
+
+</div>
+
+---
+
+## 💕 Créditos
+
+Feito com ♡ para o Termux
+
+---
+
+## 📝 Licença
+
+MIT License - use como quiser!
+
+---
+
+<div align="center">
+
+**Feito com 💖 e muito código**
+
+[⬆ Voltar ao topo](#-calculadora-rosa-termux-)
+
+</div>
+
+
