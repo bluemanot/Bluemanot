@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Riana🐦‍🔥☘️! 👋</h1>
+<h1  👋</h1>
 
 <table>
   <tr>
